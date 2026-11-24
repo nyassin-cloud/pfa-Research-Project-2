@@ -13,6 +13,4 @@ By December 14: Get the motion transfer working, improve the interface and fix i
 
 If I can't get the entire process working, I would still like to create a Maya tool where users can select a video and an unrigged 3D character, automatically rig the character and apply movement extracted from the video. Even if I can only get it working with one type of character, it would still demonstrate the main idea.
 
-
-The Riskiest Part
 The biggest challenge will be getting the video movement detection to work accurately and transferring that information onto a 3D character's rig andfigure out how to make it work with different character models and body proportions.
